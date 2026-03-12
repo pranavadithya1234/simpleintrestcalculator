@@ -1,0 +1,9 @@
+{
+  "name": "simpleintrestcalculator",
+  "private": true,
+  "scripts": {
+    "start": "npm --prefix my-react-app start",
+    "build": "npm --prefix my-react-app run build",
+    "test": "npm --prefix my-react-app run test"
+  }
+}
